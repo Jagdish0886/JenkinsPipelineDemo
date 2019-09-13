@@ -16,15 +16,7 @@
         <junit.platform.version>1.0.0-M3</junit.platform.version>
     </properties>
 
-    <build>
-    <plugins>
-        <plugin>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-maven-plugin</artifactId>
-        </plugin>
-    </plugins>
-  </build>
-         
+        
     <build>
         <plugins>
             <plugin>
